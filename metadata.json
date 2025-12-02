@@ -1,0 +1,5 @@
+{
+  "name": "ExamSmith - LaTeX Template Generator",
+  "description": "A specialized tool to generate university exam paper LaTeX templates (.cls/.tex) without writing complex class code. Features AI-powered question generation.",
+  "requestFramePermissions": []
+}
